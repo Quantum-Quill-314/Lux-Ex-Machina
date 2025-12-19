@@ -1,6 +1,5 @@
 """
 Project: The Quantum Regression (Recovering Planck's Constant)
-Author: The Mystic Engineer
 Description: 
     The Probabilistic Canvas. This script orchestrates a simulation of the photoelectric 
     effect, juxtaposing the deterministic elegance of Einstein’s equations against 
@@ -135,4 +134,5 @@ print(f"  > Deviation:  {error_phi:.3f}%")
 
 print("\n" + "="*50)
 print("  >>> MISSION COMPLETE. PHYSICS VERIFIED. <<<")
+
 print("="*50 + "\n")
