@@ -1,6 +1,6 @@
 # The Quantum Regression: Rediscovering Planck's Constant
 
-> *"God does not play dice with the universe." — Albert Einstein* > *"Perhaps not, but the sensors do." — The Mystic Engineer*
+> *"God does not play dice with the universe." — Albert Einstein* > *"Perhaps not, but the sensors do." — Mystical Poet*
 
 ## 🌌 The Premise
 
