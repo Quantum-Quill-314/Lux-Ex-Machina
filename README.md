@@ -107,4 +107,4 @@ After training on $N=250$ noisy observations, the model achieved the following c
 
 ## ✒️ Author
 
-**The Mystic Engineer** *Student of AI, Lover of Physics.* > *"Data is just the shadow of the truth."*
+**The Mystic Poet** *Student of AI, Lover of Physics.* > *"Data is just the shadow of the truth."*
