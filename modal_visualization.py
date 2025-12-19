@@ -1,7 +1,5 @@
 """
 Project: The Quantum Regression (Visualization Module)
-Author: The Mystic Engineer
-Theme: The Lavender Ether
 Description: 
     The Gallery. This script creates the "Triptych" and "Confidence" artifacts.
     It uses a custom Purple/Lavender palette to visualize the relationship 
@@ -168,4 +166,5 @@ print("  > Artifact Saved: 'visual_analysis_confidence.png'")
 
 print("\n" + "="*50)
 print("  >>> VISUALIZATION COMPLETE <<<")
+
 print("="*50 + "\n")
