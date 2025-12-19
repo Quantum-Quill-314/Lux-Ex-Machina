@@ -1,6 +1,5 @@
 """
 Project: The Quantum Regression (Genesis Module)
-Author: The Mystic Engineer
 Description: 
     The Architect of Chaos. This script simulates the quantum behavior of photons
     striking a Gold surface. It generates synthetic data obeying Einstein's 
@@ -103,4 +102,5 @@ print("="*50 + "\n")
 # Preview for the curious
 print("Artifact Preview:")
 print(df.head())
+
 print("\n")
